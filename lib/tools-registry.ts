@@ -19,7 +19,7 @@ export const tools: Tool[] = [
     name: 'SAP HANA Memory Calculator',
     description: 'Estimate column store, row store, delta merge buffer and get BTP tier recommendations instantly.',
     category: 'sap',
-    href: '/hana-memory-calculator',
+    href: '/tools/hana-memory-calculator',
     icon: '🧮',
     tags: ['SAP', 'HANA', 'BTP', 'Memory'],
     isPro: false,
