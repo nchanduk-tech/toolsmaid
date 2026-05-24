@@ -1,8 +1,15 @@
-export default function Home(){
-  return(
-    <main className="p-10">
-      <h1 className="text-3xl font-bold">Welcome to ToolsMaid</h1>
-      <p className="mt-4 text-lg">Smart utilities for daily work.</p>
-    </main>
+import Navbar from '@/components/layout/Navbar';
+import Hero from '@/components/home/Hero';
+import ToolsGrid from '@/components/home/ToolsGrid';
+import FooterCTA from '@/components/home/FooterCTA';
+
+export default function HomePage() {
+  return (
+    <>
+      <Navbar />
+      <Hero />
+      <ToolsGrid />
+      <FooterCTA />
+    </>
   );
 }
