@@ -15,8 +15,8 @@ export default function Hero() {
           </div>
           <h1 className="font-serif text-5xl font-semibold leading-tight tracking-tight mb-5">
             Smart tools for{' '}
-            <em className="text-emerald-700 font-light italic">serious</em>{' '}
-            work
+            <em className="text-emerald-700 font-light italic">Smarter</em>{' '}
+            workflows
           </h1>
           <p className="text-gray-500 text-lg leading-relaxed mb-8 max-w-md">
             Professional calculators, converters, and SAP utilities — built for

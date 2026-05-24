@@ -39,11 +39,11 @@ export const tools: Tool[] = [
     isAI: false,
   },
   {
-    id: 'sap-error-explainer',
+    id: 'sap-error-code-explainer',
     name: 'SAP Error Code Explainer',
     description: 'Paste any SAP error and get a plain-English explanation with a recommended fix.',
     category: 'sap',
-    href: '/tools/sap-error-explainer',
+    href: '/tools/sap-error-code-explainer',
     icon: '⚠️',
     tags: ['SAP', 'Debugging', 'AI'],
     isPro: false,

@@ -19,7 +19,7 @@ export default function ToolsPage() {
 
         {/* HANA Calculator */}
         <Link
-          href="/hana-memory-calculator"
+          href="/tools/hana-memory-calculator"
           className="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition"
         >
           <div className="text-4xl mb-4">🧮</div>
