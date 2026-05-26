@@ -11,7 +11,7 @@ export default function Logo() {
       </div>
 
       {/* Brand text */}
-      <div className="text-3xl font-bold tracking-tight">
+      <div className="text-5xl font-bold tracking-tight">
        <span className="text-black">Tools</span>
        <span className="text-emerald-500 italic">Maid</span>
       </div>
